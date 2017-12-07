@@ -12,12 +12,15 @@ My personal reading list for various academic articles
 [Traffic signs classification with a convolutional network](https://navoshta.com/traffic-signs-classification/)  
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-
 ## Visual Analytics
 
 [Visualizing the Hidden Activity of Artificial Neural Networks](http://www.cs.rug.nl/~alext/PAPERS/VAST16/paper.pdf)*
 
 ## Information Visualization
+
+### Deep Learning
+
+[Feature Visualization](https://distill.pub/2017/feature-visualization/)*
 
 ## Security
 

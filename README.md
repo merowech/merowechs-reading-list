@@ -10,7 +10,7 @@ My personal reading list for various academic articles
 ### Deep Learning
 
 [Traffic signs classification with a convolutional network](https://navoshta.com/traffic-signs-classification/)  
-[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
 [Introduction: AutoML for large scale image classification and object detection](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
 
 ### Security

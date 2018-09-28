@@ -17,6 +17,10 @@ My personal reading list for various academic articles
 
 [Adversarial Examples Attacks](https://blog.openai.com/adversarial-example-research/)
 
+### Dimension Reduction
+
+[PCA, t-SNE, AE Dimension Reduction](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
+
 ## Visual Analytics
 
 [Visualizing the Hidden Activity of Artificial Neural Networks](http://www.cs.rug.nl/~alext/PAPERS/VAST16/paper.pdf)*

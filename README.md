@@ -19,11 +19,14 @@ My personal reading list for various academic articles
 
 ### Dimension Reduction
 
-[PCA, t-SNE, AE Dimension Reduction](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)
+[PCA, t-SNE, AE Dimension Reduction](https://towardsdatascience.com/reducing-dimensionality-from-dimensionality-reduction-techniques-f658aec24dfe)  
+[How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 
 ## Visual Analytics
 
-[Visualizing the Hidden Activity of Artificial Neural Networks](http://www.cs.rug.nl/~alext/PAPERS/VAST16/paper.pdf)*
+[Visualizing the Hidden Activity of Artificial Neural Networks](http://www.cs.rug.nl/~alext/PAPERS/VAST16/paper.pdf)*  
+[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://arxiv.org/pdf/1801.06889.pdf)*  
+[DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks](https://junpengw.bitbucket.io/image/research/vast18.pdf)*
 
 ## Information Visualization
 

@@ -53,6 +53,7 @@ Through Automated Texture Synthesis](https://arxiv.org/pdf/1612.07919.pdf)
 
 [The Google Brain Team — Looking Back on 2017 (Part 1 of 2)](https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)  
 [How I carve out a scientific contribution in the broad field of visualization](https://medium.com/@dominikjaeckle/how-i-carve-out-a-scientific-contribution-in-the-broad-field-of-visualization-342189cd7c07)*  
+[Autopsy Of A Deep Learning Paper](https://blog.piekniewski.info/2018/07/14/autopsy-dl-paper/)*  
 
 \* favroite reads
 

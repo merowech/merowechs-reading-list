@@ -7,6 +7,10 @@ My personal reading list for various academic articles
 
 [Bias Variance Dilemma](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)
 
+### Ensemble Methods
+
+[Gradient Boosting Explained](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+
 ### Deep Learning
 
 [Traffic signs classification with a convolutional network](https://navoshta.com/traffic-signs-classification/)  

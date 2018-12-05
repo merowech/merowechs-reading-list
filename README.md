@@ -17,6 +17,7 @@ My personal reading list for various academic articles
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
 [Introduction: AutoML for large scale image classification and object detection](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)  
 [Generative Models](https://blog.openai.com/generative-models/)  
+[Understand Deep Residual Networks — a simple, modular learning framework that has redefined state-of-the-art](https://blog.waya.ai/deep-residual-learning-9610bb62c355)  
 
 ### Security
 
